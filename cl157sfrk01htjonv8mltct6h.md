@@ -32,7 +32,7 @@ You can easily verify this by visiting their template library or searching for a
 Some no-code tools are built with a prototype/minimum viable product in mind, and the SEO aspect may be left off the feature list (:cry:)
 So, if you want users to be able to find your page by search engine, double-check now rather than later.
 
-## 5. Support your language font
+## 5. Support your language 
 **Will the typography broken on UI in my language?**
 This maybe is odd, but I faced the fact that Vietnamese require special stress marks (ă â ờ ô ổ..) and not every page support Vietnamese compatible fonts.
 So, maybe worth check it on your languages as well.
