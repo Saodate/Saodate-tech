@@ -12,5 +12,6 @@
 # My notes:
 It does look like a 51% attack in real life and with the largest scale ever to me (about 625 millions USD today rate)
 9 nodes is too little (4 nodes are internal..??)
+I am discussing with my dev friends and will updating here!
 
  [Original source](https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w&fbclid=IwAR0OzWPQ-o4SoH3N-NjUxJgBWa1oLYqrbDO4PUYkMeFJpUecL8m5lbX2C_g)
