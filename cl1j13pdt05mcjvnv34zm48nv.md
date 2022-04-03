@@ -70,4 +70,5 @@ I'd rather have more shortcut keys
 https://mmm.page/saodate.main
 
 ## Learning curves
-5 minutes
+Low
+Time to build on total: 15 minutes
