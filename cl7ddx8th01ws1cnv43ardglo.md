@@ -6,6 +6,7 @@ Another cool fast website builder - [Tellie](https://tell.ie/signup?invite=YWNGQ
 
 
 Step 1. Create an account. 
+(skip the account register wait list by my code: https://tell.ie/signup?invite=YWNGQL)
 Then go to https://tell.ie/dashboard/tokengates
 
 Step 2. Decide whether you want your audience to log in with a holding of token or NFT
